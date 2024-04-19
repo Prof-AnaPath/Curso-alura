@@ -1,5 +1,5 @@
 # Alura
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil : orange_heart
 
 Meu nome é Ana Patricia Tschoepke Borges
 
