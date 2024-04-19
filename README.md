@@ -1,16 +1,15 @@
 # Alura
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Ana Patricia Tschoepke Borges
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Sou professora e utilizo esse espaço para minha organização e compartilhamento dos meus projetos e de meus alunos desenvolvidos
 
 ### Você pode entrar em contato comigo :mailbox
+anatschoepke@prof.educacao.sp.gov.br
 
-paludettomarcelo@gmail.com
-
-@marcelopaludetto
+@Prof-AnaPath
 
 ![descrição do GIF](link GIF do Tenor)
