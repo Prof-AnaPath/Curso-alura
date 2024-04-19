@@ -12,4 +12,4 @@ anatschoepke@prof.educacao.sp.gov.br
 
 @Prof-AnaPath
 
-![descrição do GIF](link GIF do Tenor)
+[![descrição do GIF](link GIF do Tenor)](https://github.com/Prof-AnaPath/Curso-alura/blob/main/README.md)
